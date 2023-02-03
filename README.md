@@ -1,5 +1,5 @@
 # emotiv-psychopy
-This repository contains sample experimental stimuli built using PsychoPy with Emotiv EEG Components
+This repository contains sample experimental stimuli built using PsychoPy with Emotiv EEG Event Marking Components
 
 Tutorial 1:
 'Simple Tone Experiment' is created in Emotiv ERP Tutorial - https://www.emotiv.com/tutorials/event-related-potentials/
