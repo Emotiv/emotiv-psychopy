@@ -6,4 +6,5 @@ Tutorial 1:
 
 Tutorial 2:
 'Auditory Oddball Experiment' is created in our web tutorial : 
-<video src='[your URL here](https://www.youtube.com/watch?v=rRoqGa4PoN8)' width=180/>
+
+<video src='https://www.youtube.com/watch?v=rRoqGa4PoN8' width=180/>
