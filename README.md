@@ -1,2 +1,2 @@
 # emotiv-psychopy
-PsychoPy Experiments with Emotiv EEG Components
+Sample PsychoPy Experiments with Emotiv EEG Components
