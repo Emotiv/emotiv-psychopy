@@ -1,4 +1,4 @@
-# emotiv-psychopy
+# Emotiv EEG Experiments with PsychoPy
 This repository contains sample experimental stimuli built using PsychoPy with Emotiv EEG Event Marking Components
 
 Tutorial 1:
