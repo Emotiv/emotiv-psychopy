@@ -6,5 +6,5 @@ Tutorial 1:
 
 Tutorial 2:
 'Auditory Oddball Experiment' is created in our web tutorial : 
-[![Watch the video](https://www.youtube.com/watch?v=rRoqGa4PoN8))
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/default.jpg)](https://www.youtube.com/watch?v=rRoqGa4PoN8))
 
