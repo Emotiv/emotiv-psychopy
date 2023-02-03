@@ -6,4 +6,4 @@ Tutorial 1:
 
 Tutorial 2:
 'Auditory Oddball Experiment' is created in our web tutorial : 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=rRoqGa4PoN8" frameborder="0" allowfullscreen></iframe>
+<video src='[your URL here](https://www.youtube.com/watch?v=rRoqGa4PoN8)' width=180/>
